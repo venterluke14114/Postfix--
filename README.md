@@ -45,7 +45,6 @@ Input: A 4 + Output: 7
 Project Structure
 calculator.js: Contains the JavaScript implementation of the Postfix++ calculator.
 
-README.txt: This file.
-Additional files and directories as needed for the project.
+
 
 
